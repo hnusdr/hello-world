@@ -2,3 +2,9 @@
 
 branch2
 branch1--------第二次更新
+
+
+#include branch1
+int a = 1;
+int b = 2;
+c=3;
