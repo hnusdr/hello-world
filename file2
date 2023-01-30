@@ -6,5 +6,5 @@ branch1--------第二次更新
 
 #include branch1
 int a = 1;
-int b = 3;
-c=3;
+int b = 3;//branch2
+c=4;
