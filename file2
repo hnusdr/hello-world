@@ -1,3 +1,10 @@
 2222222
 
 branch2
+
+
+
+#include branch1
+int a = 1;
+int b = 3;//branch2
+c=4;
